@@ -17,7 +17,15 @@ Welcome to my Data Science repository! This is where I document my journey as a 
 ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
 
 </div>
+Languages: Python SQL Bash MATLAB R
 
+ML / DL: PyTorch TensorFlow Keras scikit-learn Hugging Face
+
+GenAI / NLP: OpenAI Anthropic Gemini LangChain KeyBERT Tesseract
+
+Data & viz: Pandas NumPy SciPy Jupyter Matplotlib Plotly
+
+Dev & infra: Docker Git Linux LaTeX QGIS
 ---
 
 # 💡 About Me
