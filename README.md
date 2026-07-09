@@ -12,12 +12,12 @@ Welcome to my Data Science repository! This is where I document my journey as a 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=francedhlamini574-cloud&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/francedhlamini574-cloud?style=social)
+![GitHub stars](https://img.shields.io/github/stars/francedhlamini574-cloud?style=social)
 
 </div>
-## 🛠️ Tech Stack
+###🛠️ TECH STACK
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
