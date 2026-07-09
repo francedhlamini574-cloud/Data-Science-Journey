@@ -17,7 +17,7 @@ Welcome to my Data Science repository! This is where I document my journey as a 
 ![GitHub stars](https://img.shields.io/github/stars/francedhlamini574-cloud?style=social)
 
 </div>
-###🛠️ TECH STACK
+ 🛠️ TECH STACK
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
